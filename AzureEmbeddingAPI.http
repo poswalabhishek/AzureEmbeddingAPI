@@ -1,0 +1,6 @@
+@AzureEmbeddingAPI_HostAddress = http://localhost:7070
+
+GET {{AzureEmbeddingAPI_HostAddress}}/AzureEmbeddingAPI/
+Accept: application/json
+
+###

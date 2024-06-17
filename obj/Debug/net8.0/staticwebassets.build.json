@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Odiamh3gEG3gJe9gwgSgAa6hobTrNTd2cXcPq5dSWHg=",
+  "Source": "AzureEmbeddingAPI",
+  "BasePath": "_content/AzureEmbeddingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
